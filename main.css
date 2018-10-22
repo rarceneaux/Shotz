@@ -1,0 +1,16 @@
+#mainH1{
+    text-align: center;
+}
+
+#shootTimeButtons{
+    text-align: center;
+}
+
+#trailer{
+    text-align: center;
+}
+
+.card-img-top{
+    height: 300px;
+    width: 400px;
+}
