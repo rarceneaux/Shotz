@@ -2,31 +2,31 @@
     "locations": [
         {
             
-            "locationImageUrl": "https://www.flynashville.com/PublishingImages/Homepage%20carousel/NightlapseWEB.png",
+            "locationImageUrl": "https://s3.amazonaws.com/reactnativestarter-hosting-mobilehub-132039435/BlindSpots+(2).JPG",
             "locationName":"Nashville International Airport",
             "locationAddress":"1 Terminal Drive, Nashville, TN 37214",
             "shootTime":"After Dark"
         },
         {
-            "locationImageUrl": "http://d1marr3m5x4iac.cloudfront.net/images/block/I0-001/040/119/948-7.jpeg_/economix-nashville-2018-48.jpeg",
+            "locationImageUrl": "https://s3.amazonaws.com/reactnativestarter-hosting-mobilehub-132039435/Scales+Funeral+Home.png",
             "locationName":"Scales Funeral Home",
             "locationAddress":"1412 Jefferson Street, Nashville,TN 37208",
             "shootTime":"Morning"
         },
         {
-            "locationImageUrl":"http://khm0.googleapis.com/kh?v=812&hl=en-US&x=8476&y=12846&z=15",
+            "locationImageUrl":"https://s3.amazonaws.com/reactnativestarter-hosting-mobilehub-132039435/IMG_2111.JPG",
             "locationName":"Riverbend Maximum Security Institution",
             "locationAddress":"7475 Cockrill Bend Blvd, Nashville,TN 37209",
             "shootTime":"After Dark"
         },
         {
-            "locationImageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcNDlUAnVkssx5mKLEk7W-4llYSewmDuCF_lu4IEgyk1RUGCJ97Q",
+            "locationImageUrl":"https://s3.amazonaws.com/reactnativestarter-hosting-mobilehub-132039435/skyline.JPG",
             "locationName":"City View Apartments",
             "locationAddress":"1 Middleton St, Nashville, TN 37243",
             "shootTime":"Afternoon"
         },
         {
-            "locationImageUrl":"http://khm0.googleapis.com/kh?v=812&hl=en-US&x=8476&y=12846&z=15",
+            "locationImageUrl":"https://s3.amazonaws.com/reactnativestarter-hosting-mobilehub-132039435/graveyard.JPG",
             "locationName":"Hopewell Cemetery",
             "locationAddress":"12 Liberty Street, Old Hickory, TN 37138",
             "shootTime":"Morning"
