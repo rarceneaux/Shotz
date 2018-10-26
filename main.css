@@ -4,6 +4,7 @@
 
 #shootTimeButtons{
     text-align: center;
+    padding: 5px;
 }
 
 #trailer{
@@ -14,3 +15,8 @@
     height: 300px;
     width: 400px;
 }
+
+#searchLocationBar{
+    text-align: center;
+}
+

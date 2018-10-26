@@ -16,9 +16,11 @@ $("#movieInfo").append(domString);
 $.get('../db/movie.json')
     .done((data) =>{
         console.log(data);
-     movieDescription(data.movie);  
+     movieDescription(data.movies);  
     })
 
 .fail((error) => {
     console.error(error);
 });
+
+export {movieDescription};
