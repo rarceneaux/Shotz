@@ -1,7 +1,11 @@
+// import {cardsToHide} from '../events.js';
+
+
+
 const locationBuilder = (arrayOfLocations) => {
     let domString = "";
     arrayOfLocations.forEach((location) => {
-        domString += `<div class="location d-inline-block col-4">
+        domString += `<div id"${location.location_id}" class="location d-inline-block col-4">
         <img class="card-img-top" src="${location.locationImageUrl}" alt="Card image cap">
         <div class="card-body">
           <h2 class="locationName">${location.locationName}</h2>
@@ -13,12 +17,13 @@ const locationBuilder = (arrayOfLocations) => {
 
 
 $("#locationCards").append(domString);
-
-
-
-
-
 }
+
+
+
+
+
+
 
 $.get('../db/locations.json')
     .done((data) =>{
@@ -29,3 +34,6 @@ $.get('../db/locations.json')
 .fail((error) => {
     console.error(error);
 });
+
+
+export {locationBuilder};

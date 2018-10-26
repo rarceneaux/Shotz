@@ -1,31 +1,35 @@
 {
     "locations": [
         {
-            
+            "location_id":"L1",
             "locationImageUrl": "https://s3.amazonaws.com/reactnativestarter-hosting-mobilehub-132039435/BlindSpots+(2).JPG",
             "locationName":"Nashville International Airport",
             "locationAddress":"1 Terminal Drive, Nashville, TN 37214",
             "shootTime":"After Dark"
         },
         {
+            "location_id":"L2",
             "locationImageUrl": "https://s3.amazonaws.com/reactnativestarter-hosting-mobilehub-132039435/Scales+Funeral+Home.png",
             "locationName":"Scales Funeral Home",
             "locationAddress":"1412 Jefferson Street, Nashville,TN 37208",
             "shootTime":"Morning"
         },
         {
+            "location_id":"L3",
             "locationImageUrl":"https://s3.amazonaws.com/reactnativestarter-hosting-mobilehub-132039435/IMG_2111.JPG",
             "locationName":"Riverbend Maximum Security Institution",
             "locationAddress":"7475 Cockrill Bend Blvd, Nashville,TN 37209",
             "shootTime":"After Dark"
         },
         {
+            "location_id":"L4",
             "locationImageUrl":"https://s3.amazonaws.com/reactnativestarter-hosting-mobilehub-132039435/skyline.JPG",
             "locationName":"City View Apartments",
             "locationAddress":"1 Middleton St, Nashville, TN 37243",
             "shootTime":"Afternoon"
         },
         {
+            "location_id":"L5",
             "locationImageUrl":"https://s3.amazonaws.com/reactnativestarter-hosting-mobilehub-132039435/graveyard.JPG",
             "locationName":"Hopewell Cemetery",
             "locationAddress":"12 Liberty Street, Old Hickory, TN 37138",
